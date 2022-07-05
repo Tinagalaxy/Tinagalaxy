@@ -1,5 +1,7 @@
 <h1 align="center">Hi 😊, I'm Tina 👩🏻‍💻</h1>
 <h3 align="center">A girl who love coding 💻 and vollyball 🏐</h3>
+<h3 align="center">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+– Martin Fowler </h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/79901579/177274604-380a5ce5-c297-427d-8962-60d42f6ca9a6.gif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinagalaxy&label=Profile%20views&color=0e75b6&style=flat" alt="tinagalaxy" /> </p>
